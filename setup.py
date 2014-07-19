@@ -7,7 +7,6 @@ module1 = Extension('_pylev2', sources = ['_pylev2.c'])
 setup(name='pylev2',
       version='1.0.0',
       description='A Levenshtein implementation with a premissive license.',
-      long_description=open('README.rst').read(),
       author='Anders Jensen',
       license='MIT',
       author_email='johndoee+pylev2@tidalstream.org',
